@@ -145,7 +145,7 @@ while (true) {
 - 🤖 Machine Learning — Neural Networks & Clustering
 - ⚡ Next.js & Server-Side Rendering
 - 📐 System Design Fundamentals
-- 🏆 Scaling up CP rating on Codeforces
+- 🏆 Scaling up CP rating on Codeforces...
 
 ---
 
