@@ -84,12 +84,12 @@ while (true) {
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,daisyui&theme=dark" />
 </p>
 
 ### Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma,firebase,appwrite,git,github,vscode&theme=dark" />
 </p>
 
 ---
