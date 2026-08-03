@@ -42,7 +42,7 @@
 │  Name    →  Arpit Yadav                                                     │
 │  Degree  →  B.Tech, Computer Science & Engineering                          │
 │  School  →  National Institute of Technology, Durgapur (2023–2027)         │
-│  Club    →  Senior Coordinator @ RECursion (NITD's Official Coding Club)   │
+│  Club    →  General Gecretary @ RECursion (NITD's Official Coding Club)   │
 │  Stack   →  C++ for CP · MERN for Products                                 │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
