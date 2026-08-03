@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00FF88&center=true&vCenter=true&repeat=true&width=700&lines=%24+./arpit+--mode+competitive-programmer;%24+solving+DSA+%7C+700%2B+problems+cracked;%24+building+full-stack+products+with+MERN;%24+Senior+Coordinator+%40+RECursion%2C+NITD;%24+always+learning+%7C+never+stopping_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00FF88&center=true&vCenter=true&repeat=true&width=700&lines=%24+./arpit+--mode+competitive-programmer;%24+solving+DSA+%7C+700%2B+problems+cracked;%24+building+full-stack+products+with+MERN;%24+General+Secretary+%40+RECursion%2C+NITD;%24+always+learning+%7C+never+stopping_" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -42,7 +42,7 @@
 │  Name    →  Arpit Yadav                                                     │
 │  Degree  →  B.Tech, Computer Science & Engineering                          │
 │  School  →  National Institute of Technology, Durgapur (2023–2027)         │
-│  Club    →  General Gecretary @ RECursion (NITD's Official Coding Club)   │
+│  Club    →  General Secretary @ RECursion (NITD's Official Coding Club)   │
 │  Stack   →  C++ for CP · MERN for Products                                 │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
